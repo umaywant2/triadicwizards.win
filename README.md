@@ -1,2 +1,1 @@
-# win
-Repo for triadicwizards.win
+# Repo for triadicwizards.win
