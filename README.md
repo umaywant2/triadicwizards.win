@@ -1,1 +1,1 @@
-# Repo for triadicwizards.win
+# Repo for dev.triadicwizards.win
