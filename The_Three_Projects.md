@@ -9,9 +9,9 @@ A unified scientific ecosystem exploring matter, transport, and continuity world
 
 Triadic Wizards is a long‑arc research initiative developing the foundational science behind:
 
-- **Replicators** (Project Manifestation)  
-- **Transporters** (Project Bubble Gum)  
-- **Continuity Worlds** (Project Multiverse)  
+- **Replicators** ([Project Manifestation](https://github.com/umaywant2/manifestation/))  
+- **Transporters** ([Project Bubble Gum](https://github.com/umaywant2/bubblegum/))  
+- **Continuity Worlds** ([Project Multiverse](https://github.com/umaywant2/multiverse/))  
 
 Each project is independent.  
 Together, they form a coherent scientific architecture.
